@@ -1,0 +1,33 @@
+.cabecalho {
+    background: #d60b0b; 
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+  }
+  .cabecalho ul {
+    padding: 12px;
+    margin: 0;
+    
+  }
+  .cabecalho ul li {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 8px;
+    font-weight: 100;
+    
+  }
+  .cabecalho ul li link {
+    color: rgb(255, 255, 255);
+  }
+  a {
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 25px;
+    
+
+  
+  }

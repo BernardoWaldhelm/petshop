@@ -1,0 +1,49 @@
+.contato form .form-control {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    margin-right: 0;
+    border: none;
+    border-bottom: 1px solid #2c3e50;
+    
+  }
+  .subtitulo{
+      padding-top: 40px;
+  }
+  .geral{
+      text-align: center;
+      align-items: center;
+      display: block;
+  }
+  textarea {
+    resize: vertical;
+  }
+  .form-control:focus{
+    outline: none;
+  }
+  
+  .contato {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+  }
+  form {
+    display: block;
+    width: 400px;
+    max-width: 90%;
+  }
+  
+  button {
+    width: 100%;
+    padding: 12px;
+    background: transparent;
+    cursor: pointer;
+    color: #2c3e50;
+    border-color: #2c3e50;
+  }
+  
+  button:hover {
+    background-color: #e61e1e;
+    color: rgb(213, 214, 230);
+  }

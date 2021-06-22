@@ -1,0 +1,19 @@
+.fundo-escuro {
+    background-color: rgb(67, 148, 180);
+    padding-top: 25px;
+  }
+  .principal {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+  .principal img {
+    width: 350px;
+    max-width: 90%;
+    
+  }
+  .principal h1 {
+    margin: 25px 0;
+    font-size: 40px;
+  }
