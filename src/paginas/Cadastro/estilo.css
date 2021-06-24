@@ -1,3 +1,6 @@
+.contato{
+  display: block;
+}
 .contato form .form-control {
     display: block;
     width: 100%;

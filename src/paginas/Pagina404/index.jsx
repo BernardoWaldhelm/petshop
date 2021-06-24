@@ -1,11 +1,11 @@
-import imagem from './page.png'
+import img from './peterro.jpg'
 
-const PaginaErro = ( ) => {
-    return(
-        <div>
-        
-            <img src={imagem} alt="" />
-        </div>
-    )
+const Pagina404 = () => {
+  return (
+    <div>
+    <h2>Página não encontrada</h2>
+    <img src={img} alt="" />
+  </div>)
 }
-export default PaginaErro
+
+export default Pagina404

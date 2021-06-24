@@ -40,7 +40,7 @@ const Cadastro = () => {
 
         <div className="geral">
             <form onSubmit={efetuarCadastro}>
-                <section id="contato" className="subtitulo">
+                <section  className="subtitulo">
                     <h2>Cadastro</h2>
                 </section>
                 <section className="contato">
